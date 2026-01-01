@@ -1,0 +1,7 @@
+{
+  "name": "Aura TTS - Ultra Realistic Voice Studio",
+  "description": "A professional-grade text-to-speech application featuring ultra-realistic English and Hindi voices with emotional range using Gemini V3 Alpha technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
